@@ -25,8 +25,7 @@
         "googleSignIn": {
           "reservedClientId": "com.googleusercontent.apps.231137319379-e4v9k0qs30i87b9oh943284pprhhd9mq"
         }
-      },
-      "googleServicesFile": "./GoogleService-Info.plist"
+      }
     },
     "android": {
       "enableDangerousExperimentalLeanBuilds": true,
@@ -34,8 +33,7 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      },
-      "googleServicesFile": "./google-services.json"
+      }
     },
     "web": {
       "favicon": "./assets/images/favicon.png"
